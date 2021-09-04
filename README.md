@@ -1,4 +1,4 @@
-"# autoClicker"  
+# autoClicker  
 
 AutoHotkey script clicking as fast as application and hardware allows.  
 
