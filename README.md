@@ -6,4 +6,4 @@ May cause lag or break applications.
 ![image](https://github.com/Anon853/autoClicker/blob/main/clickscountnew.jpg)  
 
 Demo video  
-[![image2](https://youtu.be/X-G__BlCeIg)](https://i.postimg.cc/J0rQHhk4/preview.jpg)  
+[![image2](https://i.postimg.cc/J0rQHhk4/preview.jpg)](https://youtu.be/X-G__BlCeIg)  
