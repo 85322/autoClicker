@@ -5,7 +5,7 @@ AutoHotkey script clicking as fast as application and hardware allows.
 Tooltip displaying how many clicks it reached. Reached 3000+/s.  
 
 How to: Run script.  
-Controls: Numpad 1 = start, Numpad 2/3 stop, Esc = exit  
+Controls: Numpad 1 = start, Numpad 2/3 = stop, Esc = exit  
 
 May cause lag or break applications.  
 
